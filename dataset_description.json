@@ -1,0 +1,24 @@
+{
+  "Name": "Demo study dataset for ds000003-demo",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "SourceDatasets": [
+    {
+      "URL": "bids::sourcedata/ds000003-demo/"
+    }
+  ],
+  "GeneratedBy": [
+    {
+      "Name": "bids-study-demos",
+      "Description": "code/build-study.sh: a demo BIDS study in the OpenNeuroStudies shape",
+      "CodeURL": "https://github.com/ReproNim/bids-study-demos"
+    },
+    {
+      "Name": "openneuro-studies",
+      "Version": "0.20251020.0",
+      "Description": "per-subject and per-dataset metadata TSVs under sourcedata/",
+      "CodeURL": "https://github.com/OpenNeuroStudies/OpenNeuroStudies"
+    }
+  ],
+  "License": "CC0"
+}

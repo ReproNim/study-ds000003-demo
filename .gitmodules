@@ -1,5 +1,5 @@
 [submodule "sourcedata/ds000003-demo"]
 	path = sourcedata/ds000003-demo
-	url = git@github.com:ReproNim/ds000003-demo
+	url = https://github.com/ReproNim/ds000003-demo
 	datalad-id = 9040fae2-8704-11e8-aff3-0242ac12000c
 	datalad-url = https://github.com/ReproNim/ds000003-demo

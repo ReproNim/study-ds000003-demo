@@ -1,0 +1,2 @@
+source_id	subjects_num	sessions_num	sessions_min	sessions_max	bold_num	t1w_num	t2w_num	bold_size	t1w_size	bold_size_max	bold_duration_total	bold_duration_mean	bold_voxels_total	bold_voxels_mean	bold_tasks	bold_timepoints	bold_trs	datatypes
+ds000003-demo	2	n/a	n/a	n/a	2	2	0	50637700	11308133	25318850	n/a	n/a	n/a	n/a	n/a	0	n/a	anat,func
